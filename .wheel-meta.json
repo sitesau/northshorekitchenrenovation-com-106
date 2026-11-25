@@ -1,0 +1,22 @@
+{
+  "wheel_id": 964,
+  "structure": "umbrella",
+  "slug": "northshorekitchenrenovation-com-106",
+  "project": "kitchen-renovations-north-shore-before-you-start-dbb08b44be7afd",
+  "parent_t1_ref": "northshorekitchenrenovation-com-152",
+  "node_role": "feeder",
+  "money_target": "northshorekitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations north shore before you start",
+  "intended_url": "https://sites-e470-2.web.app/kitchen-renovations-north-shore-before-you-start-dbb08b44be7afd/",
+  "tier": "T2",
+  "writeback_nonce": "9d92dbe77a700c3e",
+  "links": [
+    {
+      "target_url": "http://kitchen-renovations-north-shore-glossary-df36546356860c57803484.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "http://kitchen-renovations-north-shore-glossary-df36546356860c57803484.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
